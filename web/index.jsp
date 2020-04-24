@@ -11,6 +11,6 @@
     <title>git提交测试</title>
   </head>
   <body>
-  $END$
+  git测试
   </body>
 </html>
